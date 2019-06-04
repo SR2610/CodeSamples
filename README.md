@@ -14,10 +14,11 @@ In each folder, you can find additional readmes explaining code functions in mor
 * Getting Enemy Flag State
 
 ## Dog in a Box
-#### Game Jam / Commercial  - Asyemetrical Cooperative Virtual Reality Heist Game (Unity3D / C#)
+#### Game Jam / Commercial  -VR Dog Building Game (Unity3D / C#)
+* Dog Generator
+* Interactable Objects
+* Utility Class
 
-## Space Escape
-#### University Assignement  - Space Themed Escape Room (Unity3D / C#)
 
 ## Tag the World
 #### University Assignment  - Virtual Reality Free Running Game (Unity3D / C#)
